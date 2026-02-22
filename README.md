@@ -5,6 +5,7 @@
 - 📫 How to reach my dream
 - 😄 Pronouns: what
 - ⚡ Fun fact: give some capucino i will focus
+- and this is my Fav Games
 
 <!---
 arkanz4idan/arkanz4idan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
